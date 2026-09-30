@@ -11,7 +11,9 @@ web\com\services\AuthenticationService.class
 web\com\controllers\AuthController.class
 web\com\services\UserService.class
 web\com\configs\ApplicationConfiguration.class
+META-INF\maven\web.com\SpringSecuriry6\pom.xml
 web\com\configs\DataInitializer.class
 web\com\models\RegisterUserModel.class
 web\com\repository\UserRepository.class
+META-INF\maven\web.com\SpringSecuriry6\pom.properties
 web\com\configs\SecurityConfiguration.class
